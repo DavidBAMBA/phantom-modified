@@ -1,12 +1,19 @@
 Compilation details:
-   Date compiled: Wed 19 Jun 2024 01:00:38 PM NDT
+   Date compiled: Wed 19 Jun 2024 05:01:52 PM NDT
    Pre-processor flags used: -DPERIODIC -DMHD
  
 Version details:
-   Date this version was committed to the repository:    Wed Jun 5 17:08:24 2024 -0230
+   Date this version was committed to the repository:    Wed Jun 19 16:51:18 2024 -0230
    Commit tag:     
-   Full commit ID: bdf8a2b20ac82b85c7ae0e6bec939e2aeb67b328 
+   Full commit ID: 5704b8f7dc176ce2962e46c06f972e35077dffde 
    Locally modified files:
+bin/libphantomsetup.a
+bin/phantom_version
+build/.make_lastfflags
+build/.make_lastfppflags
+build/.make_lastsetup
+build/.make_lastsystem
 src/main/config.F90
 src/main/dens.F90
+src/main/dim.mod
 src/main/force.F90
