@@ -1,0 +1,12 @@
+Compilation details:
+   Date compiled: Wed 19 Jun 2024 01:00:38 PM NDT
+   Pre-processor flags used: -DPERIODIC -DMHD
+ 
+Version details:
+   Date this version was committed to the repository:    Wed Jun 5 17:08:24 2024 -0230
+   Commit tag:     
+   Full commit ID: bdf8a2b20ac82b85c7ae0e6bec939e2aeb67b328 
+   Locally modified files:
+src/main/config.F90
+src/main/dens.F90
+src/main/force.F90
